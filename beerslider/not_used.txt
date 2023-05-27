@@ -1,0 +1,31 @@
+      <!-- Project Two Row -->
+      <div class="row justify-content-center no-gutters">
+
+        <div class="col-lg-6">
+          <img class="img-fluid" src="img/tof.svg" alt="">
+
+
+        </div>
+
+        <div class="col-lg-6 order-lg-first">
+          <div class="bg-black text-center h-100 project">
+            <div class="d-flex h-100">
+              <div class="project-text w-100 my-auto text-center text-lg-right">
+                <h4 class="text-white">AI ToF Imaging</h4>
+                <p class="mb-0 text-white-50">
+                  <!--                  With our end-to-end iToF and dToF simulator that models the entire ToF-->
+<!--                pipeline, including optics, eletroncis and depth algorithm, we developed-->
+                  Our unique iToF2dToF solution allows iToF sensors to achieve dToF advantages such as
+                  reduced multi-path interference (MPI) and selective depth imaging,
+                  while avoiding dToF's disadvantages, like ambient pileups.
+<!--                  such as mitigating multi-path interference (MPI)-->
+<!--                  depth error, selective depth imaging with transparent objects, material classification and depth-->
+<!--                  measurements through fog, without inheriting dToF's disadvantages, such as ambient light pileup.-->
+
+                </p>
+                <hr class="d-none d-lg-block mb-0 mr-0">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
